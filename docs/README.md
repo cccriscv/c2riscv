@@ -1,7 +1,4 @@
-# RISC-V 書籍
+# RISC-V 文件
 
-David Patterson & Andrew Waterman 寫的 RISC-V 書籍竟然有中文免費電子書
-
-https://riscv.org/risc-v-books/
-
-對 RISC-V 有興趣的人應該會很喜歡！
+* https://www.cl.cam.ac.uk/teaching/1617/ECAD+Arch/files/docs/RISCVGreenCardv8-20151013.pdf
+* https://github.com/jameslzhu/riscv-card

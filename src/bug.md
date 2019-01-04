@@ -1,3 +1,9 @@
+# Bug
+
+2018/12/24 測試發現在 vscode/powershell 與 MSYS 32bit 環境中都能正確執行。
+
+但是在 MSYS64 與 Linux 當中則是 c0c make 成功，但是要拿 sum0.s 給 gcc 去組譯時卻會失敗！
+
 
 ## call 的 bug
 
